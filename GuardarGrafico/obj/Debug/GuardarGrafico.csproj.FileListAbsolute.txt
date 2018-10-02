@@ -1,0 +1,10 @@
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\bin\Debug\GuardarGrafico.exe.config
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\bin\Debug\GuardarGrafico.exe
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\bin\Debug\GuardarGrafico.pdb
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.csprojResolveAssemblyReference.cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.Form1.resources
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.Properties.Resources.resources
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.csproj.GenerateResource.Cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.exe
+C:\Users\Manu\Documents\ITT\5to. Semestre\Graficación\GuardarGrafico\GuardarGrafico\obj\Debug\GuardarGrafico.pdb
